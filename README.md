@@ -14,8 +14,8 @@ php artisan serve
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/laravel-pagination/main/Screenshots/Output-01.png)
-![](https://raw.githubusercontent.com/codehafeez/laravel-pagination/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-example_form-validation-app1/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-example_form-validation-app1/main/Screenshots/Output-02.png)
 
 
 ## 🔗 www.codehafeez.com
